@@ -1,4 +1,4 @@
-# 🚀 JavaScript Learning Path: Ejercicios de Fundamentos
+# 🚀 JavaScript: Ejercicios de Fundamentos
 
 Este repositorio contiene una serie de ejercicios prácticos desarrollados para consolidar mis conocimientos en **JavaScript**, abarcando desde los fundamentos básicos hasta la manipulación de objetos y estructuras de control avanzadas.
 
@@ -21,7 +21,7 @@ Calculadora funcional que utiliza `switch` para manejar operaciones matemáticas
 
 ### 3. Arreglos y Algoritmos
 Generación de un arreglo con números aleatorios y aplicación del algoritmo de **Ordenamiento Burbuja (Bubble Sort)** para entender la lógica de manipulación de estructuras de datos.
-
+ <img src="mi-demo.gif" alt="Descripción de mi proyecto" width="500"/>
 ### 4. Funciones Modulares
 Práctica sobre la composición de funciones, donde una función principal coordina la ejecución de otras funciones específicas para realizar operaciones matemáticas.
 
