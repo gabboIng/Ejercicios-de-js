@@ -23,6 +23,8 @@ Calculadora funcional que utiliza `switch` para manejar operaciones matemáticas
 Generación de un arreglo con números aleatorios y aplicación del algoritmo de **Ordenamiento Burbuja (Bubble Sort)** para entender la lógica de manipulación de estructuras de datos.
 
 <img src="burbujaGif.gif" alt="Descripción de mi proyecto" width="300"/>
+<img src="3 Arreglos img 1.png" alt="Descripción de mi proyecto" width="300"/>
+<img src="3 Arreglos img 2.png" alt="Descripción de mi proyecto" width="300"/>
 
 ### 4. Funciones Modulares
 Práctica sobre la composición de funciones, donde una función principal coordina la ejecución de otras funciones específicas para realizar operaciones matemáticas.
@@ -33,8 +35,8 @@ Creación de objetos con métodos propios (`this`) y uso de métodos avanzados d
 ---
 
 ## 🛠️ Tecnologías
-* **JavaScript (ES6+)**
-* **Node.js** (Entorno de ejecución)
+* **JavaScript (ES6+)**(Entorno de Ejecucion la consola del navegador)
+
 
 ## 🚀 Cómo ejecutar
 1. Clona este repositorio:
