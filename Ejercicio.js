@@ -51,7 +51,8 @@ alert(`El resultado es :  ${result}`);
 
 let numCualquieras = [];
 
-for (let i = 0 ; i< 16 ; i++){
+let diametroArreglo = parseFloat(prompt("Ingresa un numero para el diametro del arreglo"))
+for (let i = 0 ; i< diametroArreglo ; i++){
     let x = Math.floor(Math.random()*100) +1 ;
     numCualquieras.push(x)
 
