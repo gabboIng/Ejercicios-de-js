@@ -30,8 +30,13 @@ Generación de un arreglo con números aleatorios y aplicación del algoritmo de
 ### 4. Funciones Modulares
 Práctica sobre la composición de funciones, donde una función principal coordina la ejecución de otras funciones específicas para realizar operaciones matemáticas.
 
+<img src="4FuncionesImg1.png" alt="Descripción de mi proyecto" width="300"/>  <img src="4FuncionesImg2.png" alt="Descripción de mi proyecto" width="300"/> 
+<img src="4FuncionesImg3.png" alt="Descripción de mi proyecto" width="300"/> 
+
 ### 5. Objetos y Colecciones
 Creación de objetos con métodos propios (`this`) y uso de métodos avanzados de arreglos como `forEach()` (para iteración) y `map()` (para transformación de datos e inmutabilidad).
+
+<img src="5ObjetosJS1.png" alt="Descripción de mi proyecto" width="500"/> 
 
 ---
 
