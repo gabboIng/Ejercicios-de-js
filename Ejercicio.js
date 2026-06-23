@@ -51,8 +51,16 @@ alert(`El resultado es :  ${result}`);
 
 let numCualquieras = [];
 
-let diametroArreglo = parseFloat(prompt("Ingresa un numero para el diametro del arreglo"))
-for (let i = 0 ; i< diametroArreglo ; i++){
+let valormax = 47
+let valormin = 3
+let diametroArreglo = parseFloat(prompt("Ingrese un diametro para el arreglo"))
+
+while (diametroArreglo <= valormin || diametroArreglo >= valormax) {
+    diametroArreglo = parseFloat(prompt(`Ingresa un diámetro (${valormin}-${valormax}):`));
+}
+let diametroCorrecto = diametroArreglo;
+
+for (let i = 0 ; i< diametroCorrecto ; i++){
     let x = Math.floor(Math.random()*100) +1 ;
     numCualquieras.push(x)
 
