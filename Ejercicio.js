@@ -138,12 +138,12 @@ let inventario = [
     {nombre:"Auto", precio:230 , cantidad :232},
     {nombre:"Camion", precio:120 , cantidad :122}
 ];
-console.log("--------- Recorriendo Objero con ForEach-----------")
+console.log("--------- Recorriendo Objeto con ForEach-----------")
 inventario.forEach((i) => {
     console.log(`Producto: ${i.nombre} | Precio: $${i.precio} | Stock: ${i.cantidad} unidades`)
 })
 
-console.log("--------- Recorriendo Objero con map-----------")
+console.log("--------- Recorriendo Objeto con map-----------")
 let preciosDescuento = inventario.map(t => ({
     ...t, 
     precio : t.precio * 0.80
